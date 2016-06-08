@@ -4,6 +4,9 @@ body {
 	background: url(noise.png);
 }
 
+header {
+	margin: 40px;
+}
 #pic {
 	float: right;
 }
