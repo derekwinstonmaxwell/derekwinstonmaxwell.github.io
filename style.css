@@ -1,5 +1,6 @@
 body {
-	font: 16px 'Montserrat', sans-serif;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 16px;
 	background: url(noise.png);
 }
 
